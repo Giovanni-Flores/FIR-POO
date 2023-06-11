@@ -1,0 +1,14 @@
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.exe
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.deps.json
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.runtimeconfig.json
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.runtimeconfig.dev.json
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.dll
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\bin\Debug\netcoreapp3.1\Exercicio7.pdb
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.csproj.AssemblyReference.cache
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.AssemblyInfo.cs
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.dll
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.pdb
+C:\Users\Jhio\source\repos\Exercicio7\Exercicio7\obj\Debug\netcoreapp3.1\Exercicio7.genruntimeconfig.cache
